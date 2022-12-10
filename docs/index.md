@@ -1,5 +1,3 @@
-# Recipes
-
 * [Apple Crisp](./Apple_Crisp.md)
 * [Apple_Crisp_v2](./Apple_Crisp_v2.md)
 * [Arepas](./Arepas.md)
