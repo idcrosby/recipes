@@ -1,6 +1,6 @@
 # Veggie Chili
 
-### Ingredients
+## Ingredients
 
 - 2 tablespoons extra\-virgin olive oil
 - 1 medium red onion, chopped
@@ -22,7 +22,7 @@
 - 1 to 2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste
 - Garnishes: chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc.
 
-### Instructions
+## Instructions
 
 1. In a 
 2. Add the garlic, chili powder, cumin, smoked paprika and oregano. Cook until fragrant while stirring constantly, about 1 minute.

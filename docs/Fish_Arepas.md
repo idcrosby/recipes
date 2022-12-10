@@ -1,13 +1,13 @@
 # Fish Arepas
 
-**Fish**
+## Fish
 
 1. Line a large baking sheet with parchment or silicone liner. In a small dish, stir together seasonings: 1/2 tsp cumin, 1/2 tsp cayenne pepper, 1 tsp salt and 1/4 tsp black pepper and evenly sprinkle the seasoning mix over both sides of tilapia.
 2. Lightly drizzle fish with olive oil and top each piece with a dot of butter. Baked at 375˚F for 20\-25 min. If you want it to get a little browned around the edges, you can broil for 3\-5 minutes at the end if desired.
 
 ---
 
-**Arepas**
+## Arepas
 
 1. Preheat oven to 350 degrees F \(176 C\). Set out a baking sheet and line with parchment paper. And to a large mixing bowl, add water and salt. Stir to combine and dissolve salt. 
 2. A little at a time, add the areparina and stir with a whisk or your hands \(our preferred method\). You may work your way all the way up to two cups, although we typically have 1\-2 Tbsp leftover. You’re looking for a dough that doesn’t easily stick to your hands, is moldable and moist, and can be rolled into a ball. Once you have that consistency, cover with a towel for 5 minutes. We did mix both white and yellow areparina as inspired by Teote \(optional\). 
@@ -18,7 +18,7 @@
 
 ---
 
-**Refried Beans**
+## Refried Beans
 
 1. Heat canola oil in a heavy skillet over medium heat.
 2. Cook garlic cloves in hot oil, turning once, until brown on both sides, 4 to 5 minutes.

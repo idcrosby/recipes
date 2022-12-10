@@ -12,7 +12,7 @@ Ingredients
 - 1/2 teaspoon vanilla extract
 - Butter, for cooking
 
-### Instructions
+## Instructions
 
 1. If your ricotta seems to have a lot of liquid, set it in a fine mesh strainer to drain off excess liquid about 30 minutes before you start cooking. If your ricotta seems fairly dry and compact, you can skip this step.
 2. Whisk together flour, baking powder, sugar, and salt in a small bowl. Combine ricotta, milk, egg yolks, and vanilla in a separate, larger mixing bowl. Add the dry ingredients to the ricotta and milk mixture, stirring gently until just combined.

@@ -1,20 +1,13 @@
 # Pizza Marinara
 
-pizza dough \(see recipe above\)
-
-50g Corbara tomatoes, drained
-
-70g escarole, blanched
-
-30g Caiazzo black olives, pitted
-
-pinch of Salina capers
-
-garlic clove, thinly sliced
-
-pinch of oregano
-
-extra virgin olive oil
+- pizza dough \(see recipe above\)
+- 50g Corbara tomatoes, drained
+- 70g escarole, blanched
+- 30g Caiazzo black olives, pitted
+- pinch of Salina capers
+- garlic clove, thinly sliced
+- pinch of oregano
+- extra virgin olive oil
 
 Place already\-prepared dough onto a baking sheet and lightly press flat. It should be no more than 3mm thick.
 

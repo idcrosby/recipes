@@ -1,6 +1,6 @@
 # Shakshuka
 
-### Ingredients
+## Ingredients
 
 - 2 tablespoons olive oil
 - 1 large yellow onion, chopped
@@ -18,7 +18,7 @@
 - ½ cup crumbled feta
 - Crusty bread or pita, for serving
 
-### Instructions
+## Instructions
 
 1. Preheat the oven to 375 degrees Fahrenheit. Warm the oil in a large, oven\-safe skillet \(preferably stainless steel\) over medium heat. Once shimmering, add the onion, bell pepper, and salt. Cook, stirring often, until the onions are tender and turning translucent, about 4 to 6 minutes.
 2. Add the garlic, tomato paste, cumin, paprika and red pepper flakes. Cook, stirring constantly, until nice and fragrant, 1 to 2 minutes.

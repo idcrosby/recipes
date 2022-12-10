@@ -1,11 +1,11 @@
 # Salmon
 
-#### For the Salmon:
+## For the Salmon:
 
 - 1 – 1 ½ lbs. salmon fillet cut into 4 pieces
 - Olive oil
 
-#### For the House Seasoning:
+## For the House Seasoning:
 
 - ¼ c. garlic powder
 - ¼ c. kosher salt
@@ -13,7 +13,7 @@
 - ¼ c. dried minced onion
 - ¼ c. dried basil
 
-### Instructions
+## Instructions
 
 1. Prepare the House Seasoning: Mix ingredients together and store in an airtight container for up to 6 months.
 2. Prepare the Salmon: Rub each piece of salmon with olive oil and sprinkle with house seasoning, to taste \(I use about 1 teaspoon of olive oil and ¼ teaspoon of seasoning per piece\).

@@ -1,13 +1,13 @@
 # Arepas
 
-### **Ingredients**
+## Ingredients
 
-- 2
-- 1
-- 2
-- 1 
+- 2 cups warm water
+- 1 heaped tsp sea salt
+- 2 cups areparina (a.k.a. masarepa - not cornmeal or masa harina // we mixed white and yellow from PAN and GOYA brands)
+- 1  Tbsp avocado, coconut, or vegan butter for cooking (if avoiding oil, just omit and be sure your pan is non-stick)
 
-**Instructions**
+## Instructions
 
 - Preheat oven to 350 degrees F \(176 C\). Set out a baking sheet and line with parchment paper. And to a large mixing bowl, add water and salt. Stir to combine and dissolve salt. 
 - A little at a time, add the areparina and stir with a whisk or your hands \(our preferred method\). You may work your way all the way up to two cups, although we typically have 1\-2 Tbsp leftover. You’re looking for a dough that doesn’t easily stick to your hands, is moldable and moist, and can be rolled into a ball. Once you have that consistency, cover with a towel for 5 minutes. We did mix both white and yellow areparina as inspired by Teote \(optional\). 

@@ -13,7 +13,7 @@
 - 1 c. shredded cheddar cheese
 - 16 oz elbow macaroni dry
 
-### Instructions 
+## Instructions 
 
 - In  a large skillet or dutch oven brown ground beef and onions over medium  high heat. During the last minute of cooking add garlic. Drain off  grease.
 - Reduce heat to low and add in salt, pepper, Worcestershire sauce and tomato paste. Stir until combined.
