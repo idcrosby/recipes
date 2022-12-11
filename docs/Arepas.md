@@ -1,5 +1,3 @@
-# Arepas
-
 ## Ingredients
 
 - 2 cups warm water

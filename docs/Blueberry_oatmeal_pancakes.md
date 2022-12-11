@@ -1,4 +1,3 @@
-# Blueberry oatmeal pancakes
 
 - 1/2 cup whole wheat flour
 - 1/2 cup white flour

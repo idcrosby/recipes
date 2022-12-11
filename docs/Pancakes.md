@@ -1,6 +1,5 @@
-# Pancakes
 
-**Pancake Healthy** 🙂 
+## Pancakes (Plain)
 
 * 1/2 tasse farine blé entier
 * 1/2 tasses farine blanche
@@ -18,13 +17,13 @@
 
 ---
 
-**Pancakes Banane**
+## Banana Pancakes 
 
-- 1 tasse farine
-- 1 cuillère à soupe sucre
-- 2 cuillère à café "baking powder"
-- 1/4 cuillère à café sel
-- 1 oeuf
-- 1 tasse lait
-- 2 cuillère à soupe beurre/huile
-- 2 bananes, écrasé
+* 1 tasse farine
+* 1 cuillère à soupe sucre
+* 2 cuillère à café "baking powder"
+* 1/4 cuillère à café sel
+* 1 oeuf
+* 1 tasse lait
+* 2 cuillère à soupe beurre/huile
+* 2 bananes, écrasé

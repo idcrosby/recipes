@@ -1,4 +1,3 @@
-# Braised Coconut Spinach and Chickpeas
 
 ## INGREDIENTS
 

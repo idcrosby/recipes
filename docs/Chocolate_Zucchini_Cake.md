@@ -1,5 +1,3 @@
-# Chocolate Zucchini Cake
-
 ## Ingredients
 
 Ingredient Checklist
