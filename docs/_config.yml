@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 title: Recipes
 description: Collection of recipes without the fluff
 header_pages:
