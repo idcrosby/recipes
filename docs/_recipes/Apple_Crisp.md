@@ -2,6 +2,6 @@
 layout: recipe
 title:  "Apple Crisp"
 categories: [ Jekyll, tutorial ]
-image: image/IMG_0161.jpg
+image: {{site.baseurl}}/image/IMG_0161.jpg
 ---
-![IMG_0161.JPG](image/IMG_0161.JPG)
+![IMG_0161.JPG]({{site.baseurl}}/image/IMG_0161.JPG)
