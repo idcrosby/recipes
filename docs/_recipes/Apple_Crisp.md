@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title:  "Apple Crisp"
-categories: [ Jekyll, tutorial ]
-image: /{{site.baseurl}}/image/IMG_0161.jpg
+categories: [ Mom, Baking ]
+description: "Mom's apple crisp recipe"
 ---
-![IMG_0161.JPG]({{site.baseurl}}/image/IMG_0161.JPG)
+
+![IMG_0159.JPG]({{site.baseurl}}/image/IMG_0159.JPG)
