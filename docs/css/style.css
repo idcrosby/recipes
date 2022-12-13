@@ -176,13 +176,13 @@ body {
     padding: 80px 0;
   }
   
-  .recipe img {
+  /* .recipe img {
     width: 77px;
     border-radius: 68px;
     position: relative;
     left: -18px;
     top: 15px;
-  }
+  } */
   
   hr {
     border: 1px solid #eee;

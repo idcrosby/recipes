@@ -1,0 +1,13 @@
+---
+layout: page
+title: Vegetarian Recipes
+---
+
+<h4>Vegetarian Recipes</h4>
+{% for recipe in site.recipes %}
+	{% if recipe.categories contains "Veg" %}
+		<div class="recipe">
+			<strong><a href="{{ recipe.url }}">{{ recipe.title }}</a></strong> - {{ recipe.description }}
+		</div>
+	{% endif %}
+{% endfor %}

@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Granola"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Granola
+---
 
 - 4 cups old-fashioned rolled oats
 - 1 ½ cup raw nuts and/or seeds

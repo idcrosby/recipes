@@ -1,9 +1,8 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Mom's Soup"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Mom's Soup (Mom)
+---
 
-![IMG_0102.JPG](image/IMG_0102.JPG)
+![IMG_0102.JPG]({{site.baseurl}}/image/IMG_0102.JPG)

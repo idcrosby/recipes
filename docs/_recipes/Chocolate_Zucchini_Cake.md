@@ -1,10 +1,12 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Chococal Zucchini Cake"
+
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----## Ingredients
+---
+
+## Ingredients
 
 Ingredient Checklist
 

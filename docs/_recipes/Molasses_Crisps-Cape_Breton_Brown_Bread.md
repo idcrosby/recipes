@@ -1,9 +1,7 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Molasses Crisps / Cape Breton Brown Bread"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Molasses Crisps / Cape Breton Brown Bread (Mom)
-
-![IMG_0103.JPG](image/IMG_0103.JPG)
+---
+![IMG_0103.JPG]({{site.baseurl}}/image/IMG_0103.JPG)

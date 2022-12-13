@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Hamburger Helper"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Hamburger Helper
+---
 
 - 1 lb ground beef
 - 1 Tbsp vegetable oil

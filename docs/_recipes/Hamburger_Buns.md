@@ -1,10 +1,11 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Hamburger Buns"
+
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Hamburger Buns
+---
+# Hamburger Buns
 
 ## Ingredients
 

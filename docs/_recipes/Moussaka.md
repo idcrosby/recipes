@@ -1,10 +1,11 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Moussaka"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----## Base ingredients
+---
+
+## Base ingredients
 - 6 eggplants
 - 5 potatoes (optional)
 - vegetable oil (for frying the eggplants)

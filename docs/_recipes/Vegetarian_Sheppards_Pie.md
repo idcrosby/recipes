@@ -1,8 +1,7 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Vegetarian Sheppards Pie"
+categories: [ Veg, Meals ]
 image: assets/images/1.jpg
 ---
 ## Filling:

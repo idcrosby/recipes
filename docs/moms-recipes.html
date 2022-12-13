@@ -1,0 +1,13 @@
+---
+layout: page
+title: Mom's Recipes
+---
+
+<h4>Mom's</h4>
+{% for recipe in site.recipes %}
+	{% if recipe.categories contains "Mom" %}
+		<div class="recipe">
+			<strong><a href="{{ recipe.url }}">{{ recipe.title }}</a></strong> - {{ recipe.description }}
+		</div>
+	{% endif %}
+{% endfor %}

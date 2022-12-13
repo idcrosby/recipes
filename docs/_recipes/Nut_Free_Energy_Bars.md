@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Nut Free Energy Bars"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Nut Free Energy Bars
+---
 
 ## Ingredients
 

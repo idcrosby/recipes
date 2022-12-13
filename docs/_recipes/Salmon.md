@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Salmon"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Salmon
+---
 
 ## For the Salmon:
 

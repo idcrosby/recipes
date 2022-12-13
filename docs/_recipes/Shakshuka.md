@@ -1,11 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Shakshuka"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Shakshuka
-
+---
 ## Ingredients
 
 - 2 tablespoons olive oil

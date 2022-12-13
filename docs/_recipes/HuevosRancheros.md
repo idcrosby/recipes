@@ -1,10 +1,11 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Huevos Rancheros"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# INGREDIENTS
+---
+
+# INGREDIENTS
 
 ## Pico de gallo*
 - 2 medium ripe tomatoes, chopped (about 1 ½ cups)

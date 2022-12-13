@@ -1,7 +1,6 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Braised Coconut Spinach and Chickpeas"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---

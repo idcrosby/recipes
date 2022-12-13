@@ -1,8 +1,7 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Bread"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
-![IMG_0106.JPG](image/IMG_0106.JPG)
+![IMG_0106.JPG]({{site.baseurl}}/image/IMG_0106.JPG)

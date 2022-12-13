@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Pizza Marinara"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Pizza Marinara
+---
 
 - pizza dough \(see recipe above\)
 - 50g Corbara tomatoes, drained

@@ -2,9 +2,26 @@
 layout: page
 title: Recipes
 ---
+
+{% assign groups = site.recipes | group_by: "category" | sort: "name" %}
+{% for group in groups %}
+    {{ group.name }}
+    {% for item in group.items %}
+        {{item.abbrev}}
+    {%endfor%}
+{%endfor%}
+<!-- 
+<h4>Mom's</h4>
+{% for recipe in site.recipes %}
+	{% if recipe.categories contains "Mom" %}
+		<div class="recipe">
+			<strong><a href="{{ recipe.url }}">{{ recipe.title }}</a></strong> - {{ recipe.description }}
+		</div>
+	{% endif %}
+{% endfor %} -->
+
 {% for recipe in site.recipes %}
 	<div class="recipe">
-		<h4><a href="{{ recipe.url }}">{{ recipe.title }}</a></h4>
-		{{ recipe.description }}
+		<strong><a href="{{ recipe.url }}">{{ recipe.title }}</a></strong> - {{ recipe.description }}
 	</div>
 {% endfor %}

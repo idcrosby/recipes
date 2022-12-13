@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Pancakes"
+
+categories: [ Baking ]
 image: assets/images/1.jpg
 ---
 ## Pancakes (Plain)

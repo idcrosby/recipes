@@ -1,10 +1,10 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Couscous"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
+
 - 1¾ cups water
 - ½ teaspoon salt
 - 1 tablespoon unsalted butter

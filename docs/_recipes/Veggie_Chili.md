@@ -1,10 +1,10 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Veggie Chili"
+
+categories: [ Veg, Meals ]
 image: assets/images/1.jpg
----# Veggie Chili
+---
 
 ## Ingredients
 

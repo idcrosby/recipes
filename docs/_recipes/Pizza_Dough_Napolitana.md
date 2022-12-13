@@ -1,11 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Pizza Dough"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Pizza Dough (Napolitana)
-
+---
 450g flour \(ideally 00, but can use 0 or 1\)
 
 300ml cold tap water

@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Overnight Oats"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Overnight Oats
+---
 
 - 1 mashed banana
 - 1/2 cup oats

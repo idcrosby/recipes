@@ -1,10 +1,9 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Red Lentil Pancakes"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
----# Red Lentil Pancakes
+---
 
 INGREDIENTS:
 

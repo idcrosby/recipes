@@ -1,0 +1,13 @@
+---
+layout: page
+title: Mains
+---
+
+<h4>Mains</h4>
+{% for recipe in site.recipes %}
+	{% if recipe.categories contains "Meals" %}
+		<div class="recipe">
+			<strong><a href="{{ recipe.url }}">{{ recipe.title }}</a></strong> - {{ recipe.description }}
+		</div>
+	{% endif %}
+{% endfor %}

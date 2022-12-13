@@ -1,8 +1,7 @@
 ---
 layout: recipe
-title:  "Red Riding Hood"
-author: sal
+title:  "Fruit Crisp"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
-![IMG_0160.JPG](image/IMG_0160.JPG)
+![IMG_0160.JPG]({{site.baseurl}}/image/IMG_0160.JPG)

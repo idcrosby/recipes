@@ -1,9 +1,12 @@
 ---
 layout: recipe
 title:  "Blueberry Oatmeal Pancakes"
-author: sal
+
 categories: [ Baking ]
 ---
+
+### Ingredients
+
 - 1/2 cup whole wheat flour
 - 1/2 cup white flour
 - 1/3 cup oats
