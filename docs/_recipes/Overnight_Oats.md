@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Overnight Oats"
-categories: [ Jekyll, tutorial ]
+categories: [ Breakfast ]
 image: assets/images/1.jpg
 ---
 

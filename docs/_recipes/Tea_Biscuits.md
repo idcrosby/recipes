@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Tea Biscuits"
-categories: [ Jekyll, tutorial ]
+categories: [ Mom, Baking ]
 image: assets/images/1.jpg
 ---
 

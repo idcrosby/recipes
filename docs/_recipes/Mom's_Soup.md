@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Mom's Soup"
-categories: [ Jekyll, tutorial ]
+categories: [ Mom, Meals ]
 image: assets/images/1.jpg
 ---
 

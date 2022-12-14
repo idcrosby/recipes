@@ -1,11 +1,10 @@
 ---
 layout: recipe
 title:  "Pancakes"
-
 categories: [ Baking ]
 image: assets/images/1.jpg
 ---
-## Pancakes (Plain)
+### Pancakes (Plain)
 
 * 1/2 tasse farine blé entier
 * 1/2 tasses farine blanche
@@ -23,7 +22,7 @@ image: assets/images/1.jpg
 
 ---
 
-## Banana Pancakes 
+### Banana Pancakes 
 
 * 1 tasse farine
 * 1 cuillère à soupe sucre

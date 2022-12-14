@@ -1,16 +1,16 @@
 ---
 layout: recipe
 title:  "Moussaka"
-categories: [ Jekyll, tutorial ]
+categories: [ Meals ]
 image: assets/images/1.jpg
 ---
 
-## Base ingredients
+### Base ingredients
 - 6 eggplants
 - 5 potatoes (optional)
 - vegetable oil (for frying the eggplants)
 
-## Meat sauce
+### Meat sauce
 - 750g beef or lamb mince (26 oz)
 - 2 red onions (chopped)
 - 2 cloves of garlic (chopped)
@@ -23,7 +23,7 @@ image: assets/images/1.jpg
 - A pinch of cinnamon or one cinnamon stick
 - 1/4 of a cup olive oil
 
-## Bechamel sauce
+### Bechamel sauce
 - 900ml milk (31 fl.oz)
 - 120g butter (4 oz)
 - 120g flour (4 oz)
@@ -32,7 +32,7 @@ image: assets/images/1.jpg
 - 100g Parmigiano-Reggiano or Kefalotyri or your favourite hard cheese (3.5oz)
 - salt to taste
 
-## Instructions
+### Instructions
 
 1. To prepare this Greek moussaka recipe, begin by preparing the eggplants. Remove the stalks from the eggplants and cut them into slices, 1 cm thick. Season with salt and place in a colander for about half an hour.
 

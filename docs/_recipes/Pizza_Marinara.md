@@ -1,9 +1,11 @@
 ---
 layout: recipe
 title:  "Pizza Marinara"
-categories: [ Jekyll, tutorial ]
+categories: [ Meals ]
 image: assets/images/1.jpg
 ---
+
+### Ingredients
 
 - pizza dough \(see recipe above\)
 - 50g Corbara tomatoes, drained
@@ -14,8 +16,9 @@ image: assets/images/1.jpg
 - pinch of oregano
 - extra virgin olive oil
 
-Place already\-prepared dough onto a baking sheet and lightly press flat. It should be no more than 3mm thick.
+### Instructions
 
-Top with tomatoes and bake at 250\-280°C for 5\-6 minutes. Add escarole, black olives, capers, garlic and bake in the oven at 250\-300°C for another 6\-8 minutes. Add oregano and a trickle of olive oil.
+1. Place already\-prepared dough onto a baking sheet and lightly press flat. It should be no more than 3mm thick.
 
-[http://www.bbc.com/travel/story/20200415\-how\-to\-make\-pizza\-like\-a\-neapolitan\-master](http://www.bbc.com/travel/story/20200415-how-to-make-pizza-like-a-neapolitan-master)
+2. Top with tomatoes and bake at 250\-280°C for 5\-6 minutes. Add escarole, black olives, capers, garlic and bake in the oven at 250\-300°C for another 6\-8 minutes. Add oregano and a trickle of olive oil.
+

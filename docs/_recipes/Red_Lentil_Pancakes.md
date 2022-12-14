@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title:  "Red Lentil Pancakes"
-categories: [ Jekyll, tutorial ]
+categories: [ Baking, Breakfast ]
 image: assets/images/1.jpg
 ---
 
-INGREDIENTS:
+### Ingredients
 
 - 1/2 cup / 95g Red split lentils
 - 1 cup / 90g Oats \(use certified gluten\-free oats to make these pancakes GF \)
