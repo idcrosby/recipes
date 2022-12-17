@@ -25,7 +25,7 @@ layout: page
 <div class="home">
 	<div class="posts">
 		{% for recipe in site.recipes %}
-		<div class="post py3">
+		<div class="post py1">
 			<a href="{{ recipe.url | relative_url}}" class="post-link"><h3 class="h3 post-title">{{ recipe.title }}</h3></a> 
 			<span class="post-summary">
 				{{ recipe.description }}
