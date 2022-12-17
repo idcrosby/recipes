@@ -1,29 +1,32 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
-  </head>
-  <body>
-    <header>
-      <div class="container">
-        <nav class="main-nav">
-          <ul>
-            <li><a href="/">All</a></li>
-            <li><a href="/meals.html">Mains</a></li>
-            <li><a href="/baking.html">Baking</a></li>
-            <li><a href="/veggie.html">Veg</a></li>
-            <li><a href="/moms-recipes.html">Mom's</a></li>
-            
-          </ul>
-        </nav>
-        <h1><a href="/">My<strong>Recipes</strong></a></h1>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+{% include head.html %}
+<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+  {% if site.google_tag_manager %}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {% endif %}
+	{% if site.facebook_comments %}
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId={{ site.facebook_appid }}";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	{% endif %}
+
+  <div class="site-wrap">
+    {% include header.html %}
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
       </div>
-    </header>
-    <div class="content">
-      {{ content }}
     </div>
-  </body>
+  </div>
+
+  {% include footer.html %}
+</body>
 </html>

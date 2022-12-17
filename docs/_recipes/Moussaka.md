@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Moussaka"
 categories: [ Meals ]
+description: "Long but really good"
 image: assets/images/1.jpg
 ---
 

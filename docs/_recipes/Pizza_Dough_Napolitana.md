@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Pizza Dough"
 categories: [ Baking ]
+description: "Not Mom's Pizza Dough"
 image: assets/images/1.jpg
 ---
 
@@ -18,7 +19,7 @@ image: assets/images/1.jpg
 
 2. Knead energetically with your hands by folding the dough and pushing it inwards. When the dough is smooth and no longer has lumps, let it rest for 10\-15 minutes.
 
-.3 Dust the dough with flour, place it on a table and then give it a few folds, forming it into a spherical shape until it’s firm and elastic.
+3 Dust the dough with flour, place it on a table and then give it a few folds, forming it into a spherical shape until it’s firm and elastic.
 
 4. Place dough inside an oiled baking tin and cover, and then allow it to rest and rise for 7\-8 hours at room temperature.
 

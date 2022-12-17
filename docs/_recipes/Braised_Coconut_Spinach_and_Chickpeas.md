@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title:  "Braised Coconut Spinach and Chickpeas"
-categories: [ Meals ]
+categories: [ Meals, Veg ]
+description: "One of my favorites"
 image: assets/images/1.jpg
 ---
 ### Ingredeients

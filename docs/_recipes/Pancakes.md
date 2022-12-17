@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Pancakes"
 categories: [ Baking ]
+description: "Copyright, Trademark, Patent Pending"
 image: assets/images/1.jpg
 ---
 ### Pancakes (Plain)

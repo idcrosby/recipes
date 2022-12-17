@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Arepas"
 categories: [ Meals ]
+description: "Delicious South American Buns"
 ---
 
 ### Ingredients

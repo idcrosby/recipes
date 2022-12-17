@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title:  "Shakshuka"
-categories: [ Meals ]
+categories: [ Meals, Breakfast, Veg ]
+description: "Fancy Breakfast"
 image: assets/images/1.jpg
 ---
 ### Ingredients

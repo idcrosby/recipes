@@ -1,8 +1,9 @@
 ---
 layout: recipe
 title:  "Blueberry Oatmeal Pancakes"
-
 categories: [ Baking ]
+description: "Solid backup pancakes"
+
 ---
 
 ### Ingredients

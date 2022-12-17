@@ -1,9 +1,10 @@
 ---
 layout: recipe
 title:  "Hamburger Buns"
-
-categories: [ Jekyll, tutorial ]
+categories: [ Baking ]
+description: ["Super fast and delicious buns!"]
 image: assets/images/1.jpg
+
 ---
 
 ### Ingredients

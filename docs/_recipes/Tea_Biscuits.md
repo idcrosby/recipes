@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Tea Biscuits"
 categories: [ Mom, Baking ]
+description: "World Famous"
 image: assets/images/1.jpg
 ---
 

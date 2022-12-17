@@ -3,6 +3,8 @@ layout: recipe
 title:  "Nut Free Energy Bars"
 categories: [ Snacks ]
 image: assets/images/1.jpg
+description: "Cause nuts make me vomit"
+
 ---
 
 ### Ingredients

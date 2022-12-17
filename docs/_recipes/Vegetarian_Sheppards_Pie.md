@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Vegetarian Sheppards Pie"
 categories: [ Veg, Meals ]
+description: "Better than the dead animal version"
 image: assets/images/1.jpg
 ---
 ### Filling:

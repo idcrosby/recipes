@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title:  "Pizza Marinara"
-categories: [ Meals ]
+categories: [ Meals, Veg ]
+description: "Fancy Pizza"
 image: assets/images/1.jpg
 ---
 

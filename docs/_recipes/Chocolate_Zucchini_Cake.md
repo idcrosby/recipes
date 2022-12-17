@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Chococal Zucchini Cake"
 categories: [ Baking ]
+description: "The Best Cake"
 image: assets/images/1.jpg
 ---
 

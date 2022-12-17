@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title:  "Huevos Rancheros"
-categories: [ Meals ]
+categories: [ Meals, Veg ]
+description: "Lots of work but super worth it"
 image: assets/images/1.jpg
 ---
 

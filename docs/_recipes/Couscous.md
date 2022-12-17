@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title:  "Couscous"
-categories: [ Sides ]
+categories: [ Sides, Veg ]
+description: "Really shouldn't need a recipe for this..."
 image: assets/images/1.jpg
 ---
 

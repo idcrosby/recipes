@@ -3,6 +3,8 @@ layout: recipe
 title:  "Overnight Oats"
 categories: [ Breakfast ]
 image: assets/images/1.jpg
+description: "Best Breakfast"
+
 ---
 
 - 1 mashed banana

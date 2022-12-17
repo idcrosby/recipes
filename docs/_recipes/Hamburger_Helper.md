@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Hamburger Helper"
 categories: [ Meals ]
+description: "Without creepy hand dude"
 image: assets/images/1.jpg
 ---
 

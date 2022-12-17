@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Salmon"
 categories: [ Meals ]
+description: "Simple BBQ Salmon"
 image: assets/images/1.jpg
 ---
 

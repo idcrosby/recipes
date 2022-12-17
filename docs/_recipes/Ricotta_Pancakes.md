@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Ricotta Pancakes"
 categories: [ Baking, Breakfast ]
+description: "Goooooooood"
 image: assets/images/1.jpg
 ---
 

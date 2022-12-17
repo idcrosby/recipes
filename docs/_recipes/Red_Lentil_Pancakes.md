@@ -3,6 +3,7 @@ layout: recipe
 title:  "Red Lentil Pancakes"
 categories: [ Baking, Breakfast ]
 image: assets/images/1.jpg
+description: "Cause you can never have too many pancakes"
 ---
 
 ### Ingredients

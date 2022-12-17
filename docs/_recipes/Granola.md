@@ -3,6 +3,8 @@ layout: recipe
 title:  "Granola"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
+description: "Best ever"
+
 ---
 
 ### Ingredients

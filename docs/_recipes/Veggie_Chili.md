@@ -3,6 +3,8 @@ layout: recipe
 title:  "Veggie Chili"
 categories: [ Veg, Meals ]
 image: assets/images/1.jpg
+description: "Dutch Oven Goodness"
+
 ---
 
 ### Ingredients
