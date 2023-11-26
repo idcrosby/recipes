@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title:  "Baba Ganoush"
-categories: [ Mains, Veg ]
+title:  "Dutch Apple Pie"
+categories: [ Baking ]
 image: assets/images/1.jpg
-description: "Eggplants FTW"
+description: "Winkel Worthy"
 
 ---
 
