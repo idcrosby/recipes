@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Crawfish (Shrimp) Monica"
+title:  "Crawfish Monica"
 categories: [ Meals ]
 description: "Straight from New Orleans Jazz Fest"
 ---
