@@ -1,11 +1,14 @@
 ---
 layout: recipe
-title:  "Vegetarian Sheppards Pie"
-categories: [ Veg, Meals ]
+title: "Vegetarian Sheppards Pie"
+categories: [Veg, Meals]
 description: "Better than the dead animal version"
 image: assets/images/1.jpg
 ---
-### Filling:
+
+## Ingredients
+
+### Filling
 
 - 2 tablespoons olive oil
 - 3 shallots, minced (or some onions and garlic)
@@ -20,7 +23,7 @@ image: assets/images/1.jpg
 - 2 cups frozen peas
 {: .ingredients }
 
-### Mashed Potatoes:
+### Mashed potatoes
 
 - 6 Yukon gold potatoes (about 2 pounds)
 - 1/2 cup full fat Greek yogurt
@@ -28,7 +31,7 @@ image: assets/images/1.jpg
 - salt to taste
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Make the mashed potatoes: Peel the potatoes. Boil them until fork tender. Drain, mash, and mix in yogurt and butter. Season to taste.
 

@@ -1,13 +1,14 @@
 ---
 layout: recipe
-title:  "Fish Arepas"
-categories: [ Meals ]
+title: "Fish Arepas"
+categories: [Meals]
 image: assets/images/1.jpg
 description: "Don't think I've actually made this one?"
-
 ---
 
-### Fish
+## Fish
+
+### Ingredients
 
 - Tilapia
 - 1/2 tsp cumin
@@ -18,18 +19,22 @@ description: "Don't think I've actually made this one?"
 - Butter
 {: .ingredients }
 
+### Instructions
+
 1. Line a large baking sheet with parchment or silicone liner. In a small dish, stir together seasonings: 1/2 tsp cumin, 1/2 tsp cayenne pepper, 1 tsp salt and 1/4 tsp black pepper and evenly sprinkle the seasoning mix over both sides of tilapia.
 2. Lightly drizzle fish with olive oil and top each piece with a dot of butter. Baked at 375˚F for 20\-25 min. If you want it to get a little browned around the edges, you can broil for 3\-5 minutes at the end if desired.
 
----
+## Arepas
 
-### Arepas
+### Ingredients
 
 - Warm water
 - Salt
 - Up to 2 cups areparina
 - Oil
 {: .ingredients }
+
+### Instructions
 
 1. Preheat oven to 350 degrees F \(176 C\). Set out a baking sheet and line with parchment paper. And to a large mixing bowl, add water and salt. Stir to combine and dissolve salt. 
 
@@ -43,9 +48,9 @@ description: "Don't think I've actually made this one?"
 
 6. Transfer to your parchment\-lined baking sheet and bake for 15\-18 minutes or until slightly puffed up and a little more golden brown in color. Some people like to slice into them immediately, but I find they can be a little doughy in the middle at that stage, so I prefer to let them cool for 5\-10 minutes and serve while they're warm but not piping hot.
 
----
+## Refried Beans
 
-### Refried Beans
+### Ingredients
 
 - Canola oil
 - Garlic cloves
@@ -55,6 +60,8 @@ description: "Don't think I've actually made this one?"
 - Salt
 - Lime juice
 {: .ingredients }
+
+### Instructions
 
 1. Heat canola oil in a heavy skillet over medium heat.
 

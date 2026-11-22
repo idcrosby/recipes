@@ -1,15 +1,15 @@
 ---
 layout: recipe
-title:  "Dutch Apple Pie"
-categories: [ Baking ]
+title: "Dutch Apple Pie"
+categories: [Baking]
 image: assets/images/1.jpg
 description: "Winkel Worthy"
-
 ---
 
-### Ingredients
+## Ingredients
 
-For the crust
+### Crust
+
 - 1 ½ cups butter, cubed, at room temperature
 - 1 ⅓ cups packed brown sugar
 - Pinch salt
@@ -17,7 +17,8 @@ For the crust
 - 5 cups all-purpose flour
 {: .ingredients }
 
-For the speculaaskruiden
+### Dutch spice mix (speculaaskruiden)
+
 - 4 tsp ground cinnamon
 - 1 tsp ground cloves
 - 1 tsp grated nutmeg
@@ -28,7 +29,8 @@ For the speculaaskruiden
 - ¼ tsp ground aniseeds
 {: .ingredients }
 
-For the filling
+### Filling
+
 - 7 firm apples, such as Braeburn, Gala, or Cortland
 - 3 soft apples, such as Golden Delicious or Pink Lady
 - 1 tbsp finely grated orange zest (about 1/2 orange)
@@ -41,9 +43,9 @@ For the filling
 - ½ cup sultana or golden raisins
 {: .ingredients }
 
-### Instructions
+## Instructions
 
-FOR THE CRUST
+### Prepare the crust
 
 1. In the bowl of a food processor, cream together the butter and brown sugar. Set aside 1 tbsp (15 ml) of the beaten eggs to brush over the pie, then add the remaining eggs to the food processor. Sprinkle with the salt and process until the eggs are well incorporated, about 5 seconds. Scrape down the bowl. Add a third of the flour, then process until well incorporated, about 10 seconds. Scrape down the bowl, then add another third of the flour, and process for another 10 seconds. Scrape down the bowl. At this point, the mixture will start gathering together.
 
@@ -51,15 +53,15 @@ FOR THE CRUST
 
 3. Transfer the dough to a bowl, cover with plastic wrap, and rest at room temperature while you prepare the filling.
 
-FOR THE DUTCH SPICE MIX
+### Prepare the Dutch spice mix
 
 1. Mix all the spices together and store in an airtight spice bottle or glass jar.
 
-FOR THE FILLING
+### Prepare the filling
 
 1. Peel and core the apples, then cut them into bite-size pieces. In a large bowl, mix the apples with the orange and lemon zest, lemon juice, brown sugar, spices, cornstarch, and the liqueur, raisins, and walnuts, if using. Set aside.
 
-TO ASSEMBLE THE DUTCH APPLE PIE
+### Assemble and bake
 
 1. Preheat the oven to 375°F (190°C). Grease a 9 in (23 cm) springform pan, then cover the bottom with a cut-out round of parchment paper.
 

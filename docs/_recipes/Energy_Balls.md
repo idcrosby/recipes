@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Energy Balls"
-categories: [ Sides ]
+title: "Energy Balls"
+categories: [Sides]
 image: assets/images/1.jpg
 description: "Mado's Fav"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 8 medjool dates pits removed
 - 1 cup uncooked old fashioned oats
@@ -18,7 +17,7 @@ description: "Mado's Fav"
 - ½ cup sunflower seed butter
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Fill a glass container with very hot water. (I heat about 2 cups in the microwave for about 1 ½ minutes.)
 

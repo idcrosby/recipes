@@ -1,18 +1,22 @@
 ---
 layout: recipe
-title:  "Salmon"
-categories: [ Meals ]
+title: "Salmon"
+categories: [Meals]
 description: "Simple BBQ Salmon"
 image: assets/images/1.jpg
 ---
 
-### For the Salmon:
+## Ingredients
+
+### Salmon
+{: #for-the-salmon }
 
 - 1 – 1 ½ lbs. salmon fillet cut into 4 pieces
 - Olive oil
 {: .ingredients }
 
-### For the House Seasoning:
+### House seasoning
+{: #for-the-house-seasoning }
 
 - ¼ c. garlic powder
 - ¼ c. kosher salt
@@ -21,7 +25,7 @@ image: assets/images/1.jpg
 - ¼ c. dried basil
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Prepare the House Seasoning: Mix ingredients together and store in an airtight container for up to 6 months.
 

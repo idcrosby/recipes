@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Hamburger Helper"
-categories: [ Meals ]
+title: "Hamburger Helper"
+categories: [Meals]
 description: "Without creepy hand dude"
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 lb ground beef
 - 1 Tbsp vegetable oil
@@ -22,7 +22,7 @@ image: assets/images/1.jpg
 - 16 oz elbow macaroni dry
 {: .ingredients }
 
-### Instructions 
+## Instructions
 
 1. In a large skillet or dutch oven brown ground beef and onions over medium  high heat. During the last minute of cooking add garlic. Drain off  grease.
 

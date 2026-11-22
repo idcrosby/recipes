@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Hot Cross Buns"
-categories: [ Mom, Baking ]
+title: "Hot Cross Buns"
+categories: [Mom, Baking]
 image: assets/images/1.jpg
 description: "Another Anne Hines classic"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 4 cups flour
 - ⅓ cup sugar
@@ -23,6 +22,6 @@ description: "Another Anne Hines classic"
 - 1 cup raisins or currants
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Hot Cross Buns]({{site.baseurl}}/image/Screenshot_2020-04-13_at_13-42-04.png)

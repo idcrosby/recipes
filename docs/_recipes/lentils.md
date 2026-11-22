@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Lentils w/ Veg"
-categories: [ Mains ]
+title: "Lentils w/ Veg"
+categories: [Mains]
 image: assets/images/1.jpg
 description: "Alistair's Fav"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 tablespoons olive oil
 - 1 onion, diced
@@ -24,7 +23,7 @@ description: "Alistair's Fav"
 - (Optional) bacon
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Heat oil in a large saute pan over medium-high heat. Add onion, celery and carrots and stir 4-5 minutes, then turn heat down to medium. Cook 4-5 more minutes and add the garlic and lentils. Cook 2 minutes stirring.
 

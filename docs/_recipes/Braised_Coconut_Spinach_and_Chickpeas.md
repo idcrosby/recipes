@@ -1,11 +1,13 @@
 ---
 layout: recipe
-title:  "Braised Coconut Spinach and Chickpeas"
-categories: [ Meals, Veg ]
+title: "Braised Coconut Spinach and Chickpeas"
+categories: [Meals, Veg]
 description: "One of my favorites"
 image: assets/images/1.jpg
 ---
-### Ingredeients
+
+## Ingredients
+{: #ingredeients }
 
 - 2 teaspoons oil or [ghee](https://www.thekitchn.com/how-to-make-cla-163899)
 - 1 small yellow onion
@@ -25,7 +27,7 @@ image: assets/images/1.jpg
 - Toasted unsweetened coconut
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Heat the oil or ghee in a large, deep Dutch oven or heavy pot over medium\-high heat. Add the onion and cook until the onion is beginning to brown, about 5 minutes. Add the sun\-dried tomatoes, garlic, fresh ginger, lemon zest, and red pepper, if using. Cook for 3 minutes, stirring frequently.
 

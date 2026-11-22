@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Granola"
-categories: [ Jekyll, tutorial ]
+title: "Granola"
+categories: [Jekyll, tutorial]
 image: assets/images/1.jpg
 description: "Best ever"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 4 cups old-fashioned rolled oats
 - 1 ½ cup raw nuts and/or seeds
@@ -19,7 +18,7 @@ description: "Best ever"
 - ⅔ cup dried fruit
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Combine the oats, nuts and/or seeds, salt and cinnamon in large bowl
 

@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Fruit Crisp"
-categories: [ Mom, Baking ]
+title: "Fruit Crisp"
+categories: [Mom, Baking]
 image: assets/images/1.jpg
 description: "Extra crispy"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 5 cups prepared fruit (apples, peaches, rhubarb, strawberries and rhubarb, blueberries, or sour cherries)
 - 1 cup packed brown sugar
@@ -19,6 +18,6 @@ description: "Extra crispy"
 - ¾ cup granulated sugar for rhubarb or sour cherry variations
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Fruit Crisp]({{site.baseurl}}/image/IMG_0160.JPG)

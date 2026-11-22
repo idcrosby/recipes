@@ -1,15 +1,15 @@
 ---
 layout: recipe
-title:  "Santa's Cookies"
-categories: [ Baking ]
+title: "Santa's Cookies"
+categories: [Baking]
 description: "Oatmeal Raisin but for Santa"
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 cup white flour
 - 1/2 cup whote wheat flour
-- 1 tsp cinnamon 
+- 1 tsp cinnamon
 - 1/2 tsp baking soda
 - 1/2 tsp baking powder
 - 1/2 tsp salt
@@ -25,7 +25,7 @@ description: "Oatmeal Raisin but for Santa"
 - 1/2 cup sunflower seeds
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350 degrees
 

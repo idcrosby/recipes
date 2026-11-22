@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Bran Muffins"
-categories: [ Mom, Baking ]
+title: "Bran Muffins"
+categories: [Mom, Baking]
 description: "Top for Laura, Stump for Ian"
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
 - 375 mL raisins
 - Boiling water to cover the raisins
@@ -23,6 +23,6 @@ image: assets/images/1.jpg
 - 5 mL salt
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Bran Muffins]({{site.baseurl}}/image/IMG_0105.JPG)

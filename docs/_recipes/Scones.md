@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Scones"
-categories: [ Baking, Breakfast ]
+title: "Scones"
+categories: [Baking, Breakfast]
 image: assets/images/1.jpg
 description: "Ham and cheese"
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 cups (250g) all-purpose flour
 - 1 Tablespoon (12g) granulated sugar
@@ -23,7 +23,7 @@ description: "Ham and cheese"
 - optional for topping: flaky sea salt
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Whisk flour, sugar, baking powder, garlic powder, salt, and pepper together in a large bowl. Stir in the chives and shredded cheese.
 

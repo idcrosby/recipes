@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Couscous"
-categories: [ Sides, Veg ]
+title: "Couscous"
+categories: [Sides, Veg]
 description: "Really shouldn't need a recipe for this..."
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
 - 1¾ cups water
 - ½ teaspoon salt
@@ -15,7 +15,7 @@ image: assets/images/1.jpg
 - 1½ cups (10 oz) couscous
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. In a medium saucepan, bring the water (or broth), salt, butter, and oil to a boil. 
 

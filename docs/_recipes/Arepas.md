@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title:  "Arepas"
-categories: [ Meals ]
+title: "Arepas"
+categories: [Meals]
 description: "Delicious South American Buns"
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 cups warm water
 - 1 heaped tsp sea salt
@@ -13,7 +13,7 @@ description: "Delicious South American Buns"
 - 1  Tbsp oil (coconut, oil)
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350 degrees F \(176 C\). Set out a baking sheet and line with parchment paper. And to a large mixing bowl, add water and salt. Stir to combine and dissolve salt. 
 

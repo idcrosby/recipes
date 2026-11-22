@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Hamburger Buns"
-categories: [ Baking ]
+title: "Hamburger Buns"
+categories: [Baking]
 description: ["Super fast and delicious buns!"]
 image: assets/images/1.jpg
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 tablespoons active dry yeast
 - 1 cup plus 2 tablespoons warm water \(110° to 115°\)
@@ -18,7 +17,7 @@ image: assets/images/1.jpg
 - 3 to 3\-1/2 cups all\-purpose flour
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. In a large bowl, dissolve yeast in warm water. Add oil and sugar; let stand for 5 minutes. Add the egg, salt and enough flour to form a soft dough.
 

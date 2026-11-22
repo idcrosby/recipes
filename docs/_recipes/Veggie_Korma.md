@@ -1,12 +1,11 @@
 ---
 layout: recipe
-title:  "Vegetarian Korma"
-categories: [ Meals, Veg ]
+title: "Vegetarian Korma"
+categories: [Meals, Veg]
 description: "Haven't tried yet by Laura says it's good"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 TBSP avocado or olive oil
 - 1 small onion yellow diced
@@ -24,7 +23,7 @@ description: "Haven't tried yet by Laura says it's good"
 - 1 cup unsweetened full-fat coconut milk
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Heat the oil in a skillet over medium heat.
 

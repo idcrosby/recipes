@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Ricotta Pancakes"
-categories: [ Baking, Breakfast ]
+title: "Ricotta Pancakes"
+categories: [Baking, Breakfast]
 description: "Goooooooood"
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 cup ricotta cheese
 - 1 cup all\-purpose flour
@@ -19,7 +19,7 @@ image: assets/images/1.jpg
 - Butter, for cooking
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. If your ricotta seems to have a lot of liquid, set it in a fine mesh strainer to drain off excess liquid about 30 minutes before you start cooking. If your ricotta seems fairly dry and compact, you can skip this step.
 

@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Baba Ganoush"
-categories: [ Mains, Veg ]
+title: "Baba Ganoush"
+categories: [Mains, Veg]
 image: assets/images/1.jpg
 description: "Eggplants FTW"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 pounds Italian eggplants (about 2 small-to-medium eggplants*)
 - 2 medium cloves of garlic, pressed or minced
@@ -21,7 +20,7 @@ description: "Eggplants FTW"
 - Serving suggestions: warmed or toasted pita wedges, carrot sticks, bell pepper strips, cucumber slices, etc.
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Preheat the oven to 450 degrees Fahrenheit with a rack in the upper third of the oven. Line a large, rimmed baking sheet with parchment paper to prevent the eggplant from sticking to the pan. Halve the eggplants lengthwise and brush the cut sides lightly with olive oil. Place them in the prepared pan with the halved sides down.
 
