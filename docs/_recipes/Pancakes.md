@@ -20,12 +20,14 @@ image: assets/images/1.jpg
 * 1/4 tasse beurre
 * 1 cuillère à café vanille
 * Bleuets 
+{: .ingredients }
 
 ---
 
 ### Banana Pancakes 
 
 * 1 tasse farine
+{: .ingredients }
 * 1 cuillère à soupe sucre
 * 2 cuillère à café "baking powder"
 * 1/4 cuillère à café sel

@@ -1,8 +1,14 @@
 ---
-layout: page
+layout: default
 ---
-<div class="recipe">
-  <div class="blog-post spacing">
+<article class="recipe">
+  <header class="recipe-header">
+    <a class="back-link" href="{{ '/' | relative_url }}">← All recipes</a>
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}<p>{{ page.description | join: ' ' | escape }}</p>{% endif %}
+    <button type="button" class="button print-button" hidden>Print recipe</button>
+  </header>
+  <div class="prose recipe-body">
     {{ content }}
   </div>
-</div>
+</article>

@@ -22,6 +22,7 @@ description: "Alistair's Fav"
 - 4–5 sprigs fresh thyme (or 1 teaspoon dried)
 - 2 bay leaves
 - (Optional) bacon
+{: .ingredients }
 
 ### Instructions
 

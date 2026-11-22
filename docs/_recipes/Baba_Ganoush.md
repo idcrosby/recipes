@@ -19,6 +19,7 @@ description: "Eggplants FTW"
 - ¼ teaspoon ground cumin
 - Pinch of smoked paprika, for garnish
 - Serving suggestions: warmed or toasted pita wedges, carrot sticks, bell pepper strips, cucumber slices, etc.
+{: .ingredients }
 
 ### Instructions
 

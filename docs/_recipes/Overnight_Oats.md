@@ -16,3 +16,4 @@ description: "Best Breakfast"
 - Flaxseed meal
 - Chia seeds
 - Fruit
+{: .ingredients }

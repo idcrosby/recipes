@@ -23,6 +23,7 @@ description: "None of the meat but twice the farts"
 - 1 Tablespoon Worcestershire sauce (see note for vegan & vegetarian version)
 - 2 Tablespoons ketchup, mayo, or BBQ sauce
 - pinch salt + pepper
+{: .ingredients }
 
 ### Instructions
 

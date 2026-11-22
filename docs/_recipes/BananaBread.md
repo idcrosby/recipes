@@ -18,6 +18,7 @@ image: assets/images/1.jpg
 - 1 teaspoon cinnamon
 - 1 ¾ cups whole wheat flour
 - ½ cup seeds, nuts, or dried fruit
+{: .ingredients }
 
 ---
 

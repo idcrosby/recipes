@@ -21,6 +21,7 @@ description: "Ham and cheese"
 - 1 large egg, separated
 - 3/4 cup (about 110g or 3 oz) finely chopped ham
 - optional for topping: flaky sea salt
+{: .ingredients }
 
 ### Instructions
 

@@ -23,6 +23,7 @@ description: "Oatmeal Raisin but for Santa"
 - 1 cup raisins
 - 1/2 cup pumpklin seeds
 - 1/2 cup sunflower seeds
+{: .ingredients }
 
 ### Instructions
 

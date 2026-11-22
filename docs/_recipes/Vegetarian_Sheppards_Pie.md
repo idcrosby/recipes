@@ -18,6 +18,7 @@ image: assets/images/1.jpg
 - 1–2 cups veggie broth
 - 1 teaspoon salt (more or less to taste)
 - 2 cups frozen peas
+{: .ingredients }
 
 ### Mashed Potatoes:
 
@@ -25,6 +26,7 @@ image: assets/images/1.jpg
 - 1/2 cup full fat Greek yogurt
 - 1/4 cup butter or olive oil
 - salt to taste
+{: .ingredients }
 
 ### Instructions
 

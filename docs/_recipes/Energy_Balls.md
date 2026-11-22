@@ -16,6 +16,7 @@ description: "Mado's Fav"
 - ⅓ cup mini chocolate chips
 - 1 teaspoon vanilla extract
 - ½ cup sunflower seed butter
+{: .ingredients }
 
 ### Instructions
 

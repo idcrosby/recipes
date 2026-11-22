@@ -18,6 +18,7 @@ description: "Straight from New Orleans Jazz Fest"
 - 1 bunch green onions, chopped
 - 2 Tablespoons olive oil
 - 1 cup Parmesan cheese, grated and divided
+{: .ingredients }
 
 ### Instructions
 

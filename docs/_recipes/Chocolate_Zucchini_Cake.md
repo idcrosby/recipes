@@ -18,6 +18,7 @@ Ingredient Checklist
 -  6 tablespoons \(¾ stick\) unsalted butter, melted
 -  ¼ cup pure maple syrup
 -  ½ teaspoon fine salt
+{: .ingredients }
 
 ### Directions
 

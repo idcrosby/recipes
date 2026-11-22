@@ -13,6 +13,7 @@ description: "You had me at Tacos..."
 - 1 cup grated cheese
 - 8 corn tortillas
 - Olive oil
+{: .ingredients }
 
 #### Avocado Salsa: (optional)
 
@@ -23,6 +24,7 @@ description: "You had me at Tacos..."
 - 1 tablespoon chopped cilantro
 - Juice of 1 lime
 - Salt, to taste
+{: .ingredients }
 
 ### Instructions
 

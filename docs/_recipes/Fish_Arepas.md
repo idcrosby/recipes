@@ -9,12 +9,27 @@ description: "Don't think I've actually made this one?"
 
 ### Fish
 
+- Tilapia
+- 1/2 tsp cumin
+- 1/2 tsp cayenne pepper
+- 1 tsp salt
+- 1/4 tsp black pepper
+- Olive oil
+- Butter
+{: .ingredients }
+
 1. Line a large baking sheet with parchment or silicone liner. In a small dish, stir together seasonings: 1/2 tsp cumin, 1/2 tsp cayenne pepper, 1 tsp salt and 1/4 tsp black pepper and evenly sprinkle the seasoning mix over both sides of tilapia.
 2. Lightly drizzle fish with olive oil and top each piece with a dot of butter. Baked at 375˚F for 20\-25 min. If you want it to get a little browned around the edges, you can broil for 3\-5 minutes at the end if desired.
 
 ---
 
 ### Arepas
+
+- Warm water
+- Salt
+- Up to 2 cups areparina
+- Oil
+{: .ingredients }
 
 1. Preheat oven to 350 degrees F \(176 C\). Set out a baking sheet and line with parchment paper. And to a large mixing bowl, add water and salt. Stir to combine and dissolve salt. 
 
@@ -31,6 +46,15 @@ description: "Don't think I've actually made this one?"
 ---
 
 ### Refried Beans
+
+- Canola oil
+- Garlic cloves
+- Pinto beans
+- Cumin
+- Chili powder
+- Salt
+- Lime juice
+{: .ingredients }
 
 1. Heat canola oil in a heavy skillet over medium heat.
 
