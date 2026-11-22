@@ -17,6 +17,7 @@ image: assets/images/1.jpg
 - 2 large eggs, separated
 - 1/2 teaspoon vanilla extract
 - Butter, for cooking
+{: .ingredients }
 
 ### Instructions
 

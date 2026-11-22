@@ -22,6 +22,7 @@ description: "Haven't tried yet by Laura says it's good"
 - 1/2 green bell pepper chopped
 - 1/2 red bell pepper chopped
 - 1 cup unsweetened full-fat coconut milk
+{: .ingredients }
 
 ### Instructions
 

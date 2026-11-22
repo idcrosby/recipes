@@ -12,6 +12,7 @@ image: assets/images/1.jpg
 - 300ml cold tap water
 - 3g fresh brewer's yeast
 - 9g salt
+{: .ingredients }
 
 ### Instructions
 

@@ -22,6 +22,7 @@ image: assets/images/1.jpg
 - 5 to 6 large eggs
 - ½ cup crumbled feta
 - Crusty bread or pita, for serving
+{: .ingredients }
 
 ### Instructions
 

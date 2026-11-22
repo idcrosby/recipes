@@ -1,0 +1,21 @@
+- id: mains
+  label: Mains
+  tags: [Meals, Mains]
+- id: baking
+  label: Baking
+  tags: [Baking]
+- id: veggie
+  label: Veggie
+  tags: [Veg]
+- id: breakfast
+  label: Breakfast
+  tags: [Breakfast]
+- id: sides
+  label: Sides
+  tags: [Sides]
+- id: snacks
+  label: Snacks
+  tags: [Snacks]
+- id: mom
+  label: "Mom's"
+  tags: [Mom]

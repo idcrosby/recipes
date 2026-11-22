@@ -10,6 +10,7 @@ image: assets/images/1.jpg
 
 - 1 – 1 ½ lbs. salmon fillet cut into 4 pieces
 - Olive oil
+{: .ingredients }
 
 ### For the House Seasoning:
 
@@ -18,6 +19,7 @@ image: assets/images/1.jpg
 - ¼ c. dried parsley
 - ¼ c. dried minced onion
 - ¼ c. dried basil
+{: .ingredients }
 
 ### Instructions
 

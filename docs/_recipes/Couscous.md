@@ -13,6 +13,7 @@ image: assets/images/1.jpg
 - 1 tablespoon unsalted butter
 - 1 tablespoon extra-virgin olive oil
 - 1½ cups (10 oz) couscous
+{: .ingredients }
 
 ### Instructions
 

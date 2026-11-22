@@ -14,3 +14,4 @@ description: "Cause you can never have too many pancakes"
 - 2 tbsp Flaxseeds
 - 1 tbsp Apple cider vinegar
 - 3/4 cup/180ml cup Water
+{: .ingredients }

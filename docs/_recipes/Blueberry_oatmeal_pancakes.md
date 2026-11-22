@@ -21,3 +21,4 @@ description: "Solid backup pancakes"
 - 1/4 cup greek yogurt \(or butter if you're feeling fatty\)
 - 1 teaspoon vanilla extract
 - Blueberries
+{: .ingredients }

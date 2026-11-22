@@ -28,6 +28,7 @@ description: "Dutch Oven Goodness"
 - 2 tablespoons chopped fresh cilantro, plus more for garnishing
 - 1 to 2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste
 - Garnishes: chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc.
+{: .ingredients }
 
 ### Instructions
 

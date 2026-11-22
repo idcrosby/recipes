@@ -24,6 +24,7 @@ description: "Moroccan Inspired Soup Recipe with Sweet Potato, Chick Peas, and C
 - 1-2 tablespoons chopped fresh cilantro or mint
 - 1 cup packed baby greens
 - Hot red pepper flakes, to taste, if desired
+{: .ingredients }
 
 ### Instructions
 

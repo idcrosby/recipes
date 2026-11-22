@@ -1,32 +1,21 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<!doctype html>
+<html lang="en">
 {% include head.html %}
-<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
-  {% if site.google_tag_manager %}
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  {% endif %}
-	{% if site.facebook_comments %}
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId={{ site.facebook_appid }}";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-	{% endif %}
-
-  <div class="site-wrap">
-    {% include header.html %}
-
-    <div class="post p2 p-responsive wrap" role="main">
-      <div class="measure">
-        {{ content }}
-      </div>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="shell site-navigation">
+      <a class="wordmark" href="{{ '/' | relative_url }}">Recipes<span>.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Collection</a>
+        <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+      </nav>
     </div>
-  </div>
-
-  {% include footer.html %}
+  </header>
+  <main id="main" class="shell">{{ content }}</main>
+  <footer class="site-footer shell">
+    <a class="wordmark" href="{{ '/' | relative_url }}">Recipes<span>.</span></a>
+    <a href="https://github.com/idcrosby/recipes">View on GitHub ↗</a>
+  </footer>
 </body>
 </html>

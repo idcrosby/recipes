@@ -20,6 +20,7 @@ image: assets/images/1.jpg
 - 1 c. water
 - 1 c. shredded cheddar cheese
 - 16 oz elbow macaroni dry
+{: .ingredients }
 
 ### Instructions 
 

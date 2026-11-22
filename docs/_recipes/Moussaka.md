@@ -10,6 +10,7 @@ image: assets/images/1.jpg
 - 6 eggplants
 - 5 potatoes (optional)
 - vegetable oil (for frying the eggplants)
+{: .ingredients }
 
 ### Meat sauce
 - 750g beef or lamb mince (26 oz)
@@ -23,6 +24,7 @@ image: assets/images/1.jpg
 - 1 bay leaf
 - A pinch of cinnamon or one cinnamon stick
 - 1/4 of a cup olive oil
+{: .ingredients }
 
 ### Bechamel sauce
 - 900ml milk (31 fl.oz)
@@ -32,6 +34,7 @@ image: assets/images/1.jpg
 - 2 egg yolks
 - 100g Parmigiano-Reggiano or Kefalotyri or your favourite hard cheese (3.5oz)
 - salt to taste
+{: .ingredients }
 
 ### Instructions
 

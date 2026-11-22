@@ -14,6 +14,7 @@ image: assets/images/1.jpg
 - ¼ cup chopped fresh cilantro
 - 2 tablespoons lime juice (about 1 medium lime)
 - ¼ teaspoon fine-grain sea salt
+{: .ingredients }
 
 
 #### Refried beans
@@ -25,6 +26,7 @@ image: assets/images/1.jpg
 - ¼ cup water
 - Freshly ground black pepper, to taste
 - ½ teaspoon lime juice
+{: .ingredients }
 
 #### Everything else
 - 1 ½ cups (12 ounces) of your favorite red salsa, either homemade or jarred
@@ -34,6 +36,7 @@ image: assets/images/1.jpg
 - ½ cup shredded Monterey Jack cheese (optional)
 - Freshly ground black pepper
 - Optional garnishes: Crumbled Cotija or feta cheese, sliced avocado, additional chopped cilantro and/or hot sauce
+{: .ingredients }
 
 ### Instructions
 

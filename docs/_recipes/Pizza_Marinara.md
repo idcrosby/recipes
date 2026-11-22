@@ -16,6 +16,7 @@ image: assets/images/1.jpg
 - garlic clove, thinly sliced
 - pinch of oregano
 - extra virgin olive oil
+{: .ingredients }
 
 ### Instructions
 

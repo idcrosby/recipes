@@ -11,6 +11,7 @@ description: "Delicious South American Buns"
 - 1 heaped tsp sea salt
 - 2 cups areparina (a.k.a. PAN)
 - 1  Tbsp oil (coconut, oil)
+{: .ingredients }
 
 ### Instructions
 

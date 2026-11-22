@@ -16,6 +16,7 @@ image: assets/images/1.jpg
 - 1 large egg
 - 1 teaspoon salt
 - 3 to 3\-1/2 cups all\-purpose flour
+{: .ingredients }
 
 ### Instructions
 

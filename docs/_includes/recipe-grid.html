@@ -1,0 +1,25 @@
+{% assign recipes = site.recipes | sort_natural: 'title' %}
+<div class="recipe-grid" id="recipe-grid">
+  {% for recipe in recipes %}
+    {% unless recipe.title %}{% continue %}{% endunless %}
+    {% if include.category %}
+      {% unless recipe.categories contains include.category %}{% continue %}{% endunless %}
+    {% endif %}
+    {% capture categories %}{% for category in site.data.recipe_categories %}{% for tag in category.tags %}{% if recipe.categories contains tag %}{{ category.id }} {% break %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+    {% if include.search %}
+      {% assign ingredient_lists = recipe.content | split: '<ul class="ingredients">' %}
+      {% capture ingredients %}{% for list in ingredient_lists offset:1 %}{{ list | split: '</ul>' | first | replace: '</li>', ' ' | strip_html }} {% endfor %}{% endcapture %}
+    {% endif %}
+    <article class="recipe-card" data-categories="{{ categories | strip }}"{% if include.search %} data-ingredients="{{ ingredients | normalize_whitespace | escape_once }}"{% endif %}>
+      <div class="card-categories">
+        {% assign category_ids = categories | split: ' ' %}
+        {% for category in site.data.recipe_categories %}
+          {% if category_ids contains category.id %}<span>{{ category.label | escape }}</span>{% endif %}
+        {% endfor %}
+      </div>
+      <h2><a href="{{ recipe.url | relative_url }}">{{ recipe.title | escape }}</a></h2>
+      {% if recipe.description %}<p>{{ recipe.description | join: ' ' | escape }}</p>{% endif %}
+      <span class="card-arrow" aria-hidden="true">↗</span>
+    </article>
+  {% endfor %}
+</div>

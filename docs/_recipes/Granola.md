@@ -17,6 +17,7 @@ description: "Best ever"
 - 1/3 cup maple syrup
 - 1 teaspoon vanilla extract
 - ⅔ cup dried fruit
+{: .ingredients }
 
 ### Instructions
 

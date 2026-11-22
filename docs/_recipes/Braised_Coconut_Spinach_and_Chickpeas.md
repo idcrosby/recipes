@@ -23,6 +23,7 @@ image: assets/images/1.jpg
 - Whole [roasted sweet potatoes](https://www.thekitchn.com/how-to-bake-a-sweet-potato-in-the-oven-cooking-lessons-from-the-kitchn-182190)
 - Fresh cilantro leaves
 - Toasted unsweetened coconut
+{: .ingredients }
 
 ### Instructions
 

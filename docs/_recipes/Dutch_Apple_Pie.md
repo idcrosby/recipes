@@ -15,6 +15,7 @@ For the crust
 - Pinch salt
 - 2 eggs, lightly beaten
 - 5 cups all-purpose flour
+{: .ingredients }
 
 For the speculaaskruiden
 - 4 tsp ground cinnamon
@@ -25,6 +26,7 @@ For the speculaaskruiden
 - ¼ tsp ground cardamom
 - ¼ tsp ground coriander
 - ¼ tsp ground aniseeds
+{: .ingredients }
 
 For the filling
 - 7 firm apples, such as Braeburn, Gala, or Cortland
@@ -37,6 +39,7 @@ For the filling
 - 1 tbsp cornstarch
 - 2 tbsp Brandy
 - ½ cup sultana or golden raisins
+{: .ingredients }
 
 ### Instructions
 
