@@ -45,7 +45,7 @@ class PageParser(HTMLParser):
             self.text.append(data)
 
 
-def public_host(url):
+def recipe_hostname(url):
     if "\\" in url or any(character.isspace() or ord(character) < 32 for character in url):
         raise ValueError("The recipe URL contains invalid characters.")
     parsed = urlsplit(url)
@@ -56,6 +56,11 @@ def public_host(url):
     hostname = parsed.hostname
     if not re.fullmatch(r"[a-zA-Z0-9.-]+", hostname) or "." not in hostname:
         raise ValueError("Enter a public recipe website hostname.")
+    return hostname
+
+
+def public_host(url):
+    hostname = recipe_hostname(url)
     addresses = {entry[4][0] for entry in socket.getaddrinfo(hostname, 443, type=socket.SOCK_STREAM)}
     if not addresses or any(not ipaddress.ip_address(address).is_global or
                             ipaddress.ip_address(address).is_multicast for address in addresses):
@@ -83,6 +88,12 @@ def fetch_page(url):
         if status in (b"301", b"302", b"303", b"307", b"308") and redirect:
             url = urldefrag(urljoin(url, redirect.decode("utf-8"))).url
             continue
+        if status == b"403":
+            raise ValueError(
+                "The recipe site refused the automated download (HTTP 403). "
+                "Try another source or save the page in your browser and import it locally with --html-file. "
+                "See the repository README for instructions."
+            )
         if status != b"200":
             raise ValueError(f"The recipe website returned HTTP {status.decode('ascii')}.")
         return body.decode("utf-8-sig", errors="replace"), url
@@ -213,9 +224,15 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("url", help="Public HTTPS recipe URL")
     parser.add_argument("--category", choices=CATEGORIES, default="Meals")
+    parser.add_argument("--html-file", type=Path, help="Read a saved recipe HTML page without downloading it")
     args = parser.parse_args()
     try:
-        page, source_url = fetch_page(args.url)
+        if args.html_file:
+            source_url = urldefrag(args.url).url
+            recipe_hostname(source_url)
+            page = args.html_file.read_text(encoding="utf-8-sig", errors="replace")
+        else:
+            page, source_url = fetch_page(args.url)
         print(write_recipe(extract_recipe(page), args.category, source_url))
     except (ValueError, OSError) as error:
         parser.exit(1, f"Import failed: {error}\n")
