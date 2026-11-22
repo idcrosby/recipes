@@ -1,10 +1,12 @@
 ---
 layout: recipe
-title:  "Brain Bread / Plum Loaf"
-categories: [ Mom, Baking ]
+title: "Brain Bread / Plum Loaf"
+categories: [Mom, Baking]
 description: "Spoiler: no plums"
 image: assets/images/1.jpg
 ---
+
+## Ingredients
 
 ### Bran bread
 
@@ -35,6 +37,6 @@ image: assets/images/1.jpg
 - Lukewarm water
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Bran Bread-Plum Loaf]({{site.baseurl}}/image/IMG_0150.JPG)

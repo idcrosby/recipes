@@ -1,12 +1,11 @@
 ---
 layout: recipe
-title:  "Best Soup in the World"
-categories: [ Meals, Veg ]
+title: "Best Soup in the World"
+categories: [Meals, Veg]
 description: "Moroccan Inspired Soup Recipe with Sweet Potato, Chick Peas, and Coconut Milk"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 3 cups light tasting vegetable broth
 - 4 cloves garlic, chopped
@@ -26,7 +25,7 @@ description: "Moroccan Inspired Soup Recipe with Sweet Potato, Chick Peas, and C
 - Hot red pepper flakes, to taste, if desired
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Combine all of the ingredients in a slow cooker and cook according to the manufacturer’s instructions.
 

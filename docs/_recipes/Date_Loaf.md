@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Date Loaf"
-categories: [ Mom, Baking ]
+title: "Date Loaf"
+categories: [Mom, Baking]
 description: "So good!"
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
 - ½ cup margarine
 - 1 cup brown sugar
@@ -21,6 +21,6 @@ image: assets/images/1.jpg
 - 1 cup nuts
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Date Loaf]({{site.baseurl}}/image/IMG_0151.JPG)

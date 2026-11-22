@@ -1,12 +1,11 @@
 ---
 layout: recipe
-title:  "Black Bean Burgers"
-categories: [ Meals, Veg ]
+title: "Black Bean Burgers"
+categories: [Meals, Veg]
 description: "None of the meat but twice the farts"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 (14 ounce) cans black beans, drained, rinsed, and patted dry
 - 1 Tablespoon extra virgin olive oil
@@ -25,7 +24,7 @@ description: "None of the meat but twice the farts"
 - pinch salt + pepper
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 325°F (163°C). Spread beans evenly onto a lined baking sheet and bake for 15 minutes until slightly dried out.
 

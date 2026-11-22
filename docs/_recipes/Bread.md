@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  "Bread"
-categories: [ Mom, Baking ]
+title: "Bread"
+categories: [Mom, Baking]
 description: "My Inheritance"
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
 - 12 cups flour (whole wheat and white)
 - 1 tsp sugar
@@ -15,6 +15,6 @@ image: assets/images/1.jpg
 - A lump of shortening
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Bread]({{site.baseurl}}/image/IMG_0106.JPG)

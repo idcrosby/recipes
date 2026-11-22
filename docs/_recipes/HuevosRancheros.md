@@ -1,14 +1,15 @@
 ---
 layout: recipe
-title:  "Huevos Rancheros"
-categories: [ Meals, Veg ]
+title: "Huevos Rancheros"
+categories: [Meals, Veg]
 description: "Lots of work but super worth it"
 image: assets/images/1.jpg
 ---
 
-### Ingredients
+## Ingredients
 
-#### Pico de gallo*
+### Pico de gallo*
+
 - 2 medium ripe tomatoes, chopped (about 1 ½ cups)
 - ¼ cup finely chopped white onion
 - ¼ cup chopped fresh cilantro
@@ -16,8 +17,8 @@ image: assets/images/1.jpg
 - ¼ teaspoon fine-grain sea salt
 {: .ingredients }
 
+### Refried beans
 
-#### Refried beans
 - 2 teaspoons extra-virgin olive oil
 - ¼ cup finely chopped white onion
 - ¼ teaspoon fine-grain sea salt
@@ -28,7 +29,8 @@ image: assets/images/1.jpg
 - ½ teaspoon lime juice
 {: .ingredients }
 
-#### Everything else
+### Everything else
+
 - 1 ½ cups (12 ounces) of your favorite red salsa, either homemade or jarred
 - 4 teaspoons extra-virgin olive oil, divided
 - 4 eggs
@@ -38,7 +40,7 @@ image: assets/images/1.jpg
 - Optional garnishes: Crumbled Cotija or feta cheese, sliced avocado, additional chopped cilantro and/or hot sauce
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. To prepare the pico de gallo: In a medium bowl, combine the tomatoes, onion, cilantro, lime juice, and salt. Stir to combine, then set the bowl aside for later.
 

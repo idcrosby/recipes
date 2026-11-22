@@ -1,12 +1,11 @@
 ---
 layout: recipe
-title:  "Blueberry Oatmeal Pancakes"
-categories: [ Baking ]
+title: "Blueberry Oatmeal Pancakes"
+categories: [Baking]
 description: "Solid backup pancakes"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 1/2 cup whole wheat flour
 - 1/2 cup white flour

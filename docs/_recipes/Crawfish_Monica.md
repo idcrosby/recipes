@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title:  "Crawfish Monica"
-categories: [ Meals ]
+title: "Crawfish Monica"
+categories: [Meals]
 description: "Straight from New Orleans Jazz Fest"
 ---
 
-### Ingredients
+## Ingredients
 
 - 16 ounces rotini pasta
 - 1/2 cup of butter
@@ -20,7 +20,7 @@ description: "Straight from New Orleans Jazz Fest"
 - 1 cup Parmesan cheese, grated and divided
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Cook the pasta to al dente. Drain, reserving about 1/4 cup of the pasta water.
 

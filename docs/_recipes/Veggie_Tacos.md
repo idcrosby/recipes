@@ -1,12 +1,11 @@
 ---
 layout: recipe
-title:  "Crispy Baked Black Bean & Sweet Potato Tacos"
-categories: [ Meals, Veg ]
+title: "Crispy Baked Black Bean & Sweet Potato Tacos"
+categories: [Meals, Veg]
 description: "You had me at Tacos..."
-
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 cup refried black beans
 - 1 cup sweet potato puree, homemade or canned*
@@ -15,7 +14,7 @@ description: "You had me at Tacos..."
 - Olive oil
 {: .ingredients }
 
-#### Avocado Salsa: (optional)
+### Avocado salsa (optional)
 
 - 1 large avocado, diced
 - 1 tomato, small diced
@@ -26,7 +25,7 @@ description: "You had me at Tacos..."
 - Salt, to taste
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Pre-heat oven to 450 F. Line a large baking sheet with parchment paper and brush with a small amount of olive oil. If corn tortillas aren’t very pliable you may need to warm on the stove or microwave for about 5 seconds each before assembling tacos.
 

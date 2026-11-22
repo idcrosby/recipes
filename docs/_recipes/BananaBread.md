@@ -1,11 +1,12 @@
 ---
 layout: recipe
-title:  "Banana Bread"
-categories: [ Baking ]
+title: "Banana Bread"
+categories: [Baking]
 description: "The best one"
 image: assets/images/1.jpg
 ---
-### Ingredients
+
+## Ingredients
 
 - ⅓ cup melted coconut oil orolive oil
 - ½ cup honey or maple syrup
@@ -22,7 +23,7 @@ image: assets/images/1.jpg
 
 ---
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 325 and grease a loaf pan.
 
@@ -30,6 +31,6 @@ image: assets/images/1.jpg
 
 3. Add the baking soda, vanilla, salt and cinnamon, and whisk to blend. Lastly, switch to a big spoon and stir in the flour, just until combined. Gently fold in seeds, nuts or fruit.
 
-3. Pour the batter into pan and sprinkle with cinnamon.
+4. Pour the batter into pan and sprinkle with cinnamon.
 
-4. Bake 60 minutes.
+5. Bake 60 minutes.

@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "Mom's Soup"
-categories: [ Mom, Meals ]
+title: "Mom's Soup"
+categories: [Mom, Meals]
 image: assets/images/1.jpg
 description: "Not sure whose Mom?"
-
 ---
 
-### Ingredients
+## Ingredients
 
 - ½ cup barley
 - 8 cups water
@@ -22,6 +21,6 @@ description: "Not sure whose Mom?"
 - 1 can tomato soup
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Mom's Soup]({{site.baseurl}}/image/IMG_0102.JPG)

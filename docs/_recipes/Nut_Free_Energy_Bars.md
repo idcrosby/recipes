@@ -1,27 +1,24 @@
 ---
 layout: recipe
-title:  "Nut Free Energy Bars"
-categories: [ Snacks ]
+title: "Nut Free Energy Bars"
+categories: [Snacks]
 image: assets/images/1.jpg
 description: "Cause nuts make me vomit"
-
 ---
 
-### Ingredients
+## Ingredients
 
-Ingredient Checklist
-
--  1 ½ cups pitted dates \(about 13 ounces\), chopped
--  2 ¼ cups old\-fashioned rolled oats
--  1 cup raw sunflower seeds\*
--  ⅔ cup wheat germ
--  1 cup raisins
--  6 tablespoons \(¾ stick\) unsalted butter, melted
--  ¼ cup pure maple syrup
--  ½ teaspoon fine salt
+- 1 ½ cups pitted dates \(about 13 ounces\), chopped
+- 2 ¼ cups old\-fashioned rolled oats
+- 1 cup raw sunflower seeds\*
+- ⅔ cup wheat germ
+- 1 cup raisins
+- 6 tablespoons \(¾ stick\) unsalted butter, melted
+- ¼ cup pure maple syrup
+- ½ teaspoon fine salt
 {: .ingredients }
 
-### Instructions
+## Instructions
 
 1. Heat oven to 350°F. Line a 9\-by\-13\-inch baking dish with parchment.
 

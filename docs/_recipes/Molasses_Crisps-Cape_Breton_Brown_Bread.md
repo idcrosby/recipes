@@ -1,10 +1,12 @@
 ---
 layout: recipe
-title:  "Molasses Crisps / Cape Breton Brown Bread"
-categories: [ Mom, Baking ]
+title: "Molasses Crisps / Cape Breton Brown Bread"
+categories: [Mom, Baking]
 description: "Cape Breton Legacy"
 image: assets/images/1.jpg
 ---
+
+## Ingredients
 
 ### Molasses crisps
 
@@ -32,6 +34,6 @@ image: assets/images/1.jpg
 - 5 cups flour
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for Molasses Crisps-Cape Breton Brown Bread]({{site.baseurl}}/image/IMG_0103.JPG)

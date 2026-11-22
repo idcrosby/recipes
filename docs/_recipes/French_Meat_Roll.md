@@ -1,13 +1,12 @@
 ---
 layout: recipe
-title:  "French Meat Roll"
-categories: [ Mom, Meals ]
+title: "French Meat Roll"
+categories: [Mom, Meals]
 image: assets/images/1.jpg
 description: "From Poppa, have yet to make it."
-
 ---
 
-### Ingredients
+## Ingredients
 
 - ¾ lb ground beef
 - ½ cup chopped celery
@@ -23,6 +22,6 @@ description: "From Poppa, have yet to make it."
 - ½ cup milk
 {: .ingredients }
 
-### Original recipe
+## Original recipe
 
 ![Original recipe for French Meat Roll]({{site.baseurl}}/image/IMG_0152.JPG)
